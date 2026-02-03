@@ -80,7 +80,12 @@ ________________________________________
 <br/>•	Predictive Modelling
 ________________________________________
 
-
+##  Author
+**Sukanya Borthakur**  
+*Aspiring Data Analyst | Skilled in Power BI, Tableau, SQL, Python, AWS*  
+[LinkedIn Profile](https://www.linkedin.com/in/
+sukanya-borthakur-48592220a)
+)
 
 
 
